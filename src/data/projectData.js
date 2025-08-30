@@ -3,8 +3,8 @@ export const projects = [
   {
     id: 1,
     title: {
-      en: "",
-      es: "",
+      en: "Aventura",
+      es: "Aventura",
     },
     description: {
       en: "",
@@ -14,5 +14,18 @@ export const projects = [
     liveSite: "",
     githubRepo: "",
   },
-  // Add more projects here...
+    {
+    id: 2,
+    title: {
+      en: "Emprendimiento",
+      es: "Emprendimiento",
+    },
+    description: {
+      en: "",
+      es: "",
+    },
+    image: "",
+    liveSite: "",
+    githubRepo: "",
+  },
 ];

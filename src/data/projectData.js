@@ -3,16 +3,16 @@ export const projects = [
   {
     id: 1,
     title: {
-      en: "",
-      es: "",
+      en: "This is me",
+      es: "Esta soy yo",
     },
     description: {
-      en: "",
-      es: "",
+      en: "This is a website about me",
+      es: "Este es un website sobre mi",
     },
     image: "",
-    liveSite: "",
-    githubRepo: "",
+    liveSite: " https://jelianyszoe123.github.io/YO/",
+    githubRepo: "https://jelianyszoe123.github.io/YO/",
   },
   // Add more projects here...
 ];
